@@ -1,7 +1,2 @@
 
 *.pyc
-*.csv
-*.txt
-qcae/nets/Board1.qcv
-qcae/nets/Board1.tel
-simple_path.png
